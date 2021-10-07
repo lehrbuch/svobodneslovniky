@@ -13,7 +13,7 @@ If several notes are to be entered, it suffices to separate them with a space. E
 
     abolish [TAB] zrušit [TAB] v: [obec.] [TAB] zákonem [TAB] Milan Svoboda
 
-Notes may serve for labelling word classes:
+Notes may serve for labelling word classes (parts of speech):
 
 |-----------|---------------|
 |-----------|---------------|
